@@ -75,9 +75,3 @@ Els fitxers tenen capçalera i utilitzen el separador **`;`** (punt i coma).
 - Utilitza fitxers amb **codificació `UTF-8`**.
 - Assegura't que els **noms d'usuari**, **ubicacions** o **elements** ja existeixen si es referencien.
 - Revisa bé les associacions de columnes abans d'importar.
-
----
-
-## Prova
-
-Prova d'importar cada fitxer en un entorn de proves. Un cop verificat, pots fer-ho en l'entorn real de producció.

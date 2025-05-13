@@ -1,12 +1,12 @@
 # Activitat: Gestió bàsica amb GLPI
 
-## 🎯 Objectiu
+## Objectiu
 
 Aprendre a utilitzar GLPI per gestionar incidències, equips informàtics i tasques de manteniment. Aquesta activitat es fa a partir de dades que els alumnes han d'importar prèviament.
 
 ---
 
-## 📝 Part 1: Importació de dades
+## Part 1: Importació de dades
 
 1. Importa els següents fitxers CSV al teu GLPI:
    - `components.csv`
@@ -19,7 +19,7 @@ Aprendre a utilitzar GLPI per gestionar incidències, equips informàtics i tasq
 
 ---
 
-## 💻 Part 2: Creació d’ordinadors
+## Part 2: Creació d’ordinadors
 
 1. Crea **3 ordinadors** utilitzant la plantilla importada.
 2. Assigna:
@@ -30,7 +30,7 @@ Aprendre a utilitzar GLPI per gestionar incidències, equips informàtics i tasq
 
 ---
 
-## 🔧 Part 3: Tasques de manteniment
+## Part 3: Tasques de manteniment
 
 1. Defineix **dues tasques de manteniment** per a cadascun dels ordinadors:
    - Una tasca preventiva (ex: neteja interna)
@@ -40,7 +40,7 @@ Aprendre a utilitzar GLPI per gestionar incidències, equips informàtics i tasq
 
 ---
 
-## 🛠️ Part 4: Creació d’incidències
+## Part 4: Creació d’incidències
 
 1. Crea **3 tickets d’incidència** (una per ordinador).
 2. Detalla:
@@ -53,21 +53,21 @@ Aprendre a utilitzar GLPI per gestionar incidències, equips informàtics i tasq
 
 ---
 
-## ✅ Entrega
+## Lliurament
 
 Fes una captura de pantalla de:
 - Llistat d’ordinadors creats
 - Tasques de manteniment associades
-- Tickets d’incidència
+- Tiquets d’incidència
 
 Envia les imatges juntament amb una breu explicació de què has fet.
 
 ---
 
-## 📌 Recorda
+## Recorda
 
 - Organitza la informació correctament.
 - Revisa que cada ordinador tingui tot associat.
 - No cal crear elements nous si ja es poden reutilitzar els importats.
 
-Bona feina!
+
