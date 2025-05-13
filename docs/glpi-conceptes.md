@@ -1,6 +1,6 @@
 # Conceptes bàsics de GLPI
 
-Aquest document explica els principals conceptes de GLPI (Gestionnaire Libre de Parc Informatique) perquè els puguis entendre de manera autònoma. GLPI és una eina de gestió d’inventari i serveis TIC molt utilitzada per administradors de sistemes.
+Aquest document explica els principals conceptes de GLPI (Gestionnaire Libre de Parc Informatique). GLPI és una eina de gestió d’inventari i serveis TIC molt utilitzada per administradors de sistemes.
 
 ---
 
@@ -141,4 +141,3 @@ Per gestionar el servei tècnic, registrar els problemes i garantir una resposta
 
 ---
 
-Aquest document està pensat per ajudar-te a entendre les bases de GLPI. Si tens dubtes, pots revisar la documentació oficial o consultar amb el teu professor o professora.
